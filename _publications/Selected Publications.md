@@ -39,3 +39,5 @@ collection: publications
 17. "Topological Dark Matter", Hitoshi Murayama, Jing Shu, Phys. Lett. B 686 (2010) 162-165 [(arXiv:0905.1720v1)](https://arxiv.org/abs/0905.1720v1)
  
 18. "Landau-Yang Theorem and Decays of a Z' Boson into Two Z Bosons", Wai-Yee Keung, Ian Low, Jing Shu, Phys.Rev.Lett. 101 (2008) 091802 [(arXiv:0806.2864)](https://arxiv.org/abs/0806.2864)
+
+19.
